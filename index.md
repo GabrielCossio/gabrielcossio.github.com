@@ -1,12 +1,15 @@
-## Welcome to Soulja Game .com
+## Welcome
 
-You can use the [editor on GitHub](https://github.com/GabrielCossio/souljagabe/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+As Kanye West said:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> We're living the future so
+> the present is our past.
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+
 
 ```markdown
 Syntax highlighted code block
