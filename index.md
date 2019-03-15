@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Soulja Game .com
 
 You can use the [editor on GitHub](https://github.com/GabrielCossio/souljagabe/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
