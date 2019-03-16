@@ -2,6 +2,8 @@
 
 As Kanye West said:
 
+>Criticism can bother you, but you should be more bothered if there’s no criticism, that means you’re too safe.
+
 > We're living the future so
 > the present is our past.
 
